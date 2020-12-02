@@ -290,7 +290,7 @@ namespace Day1
                 Console.WriteLine("Match found!");
                 Console.WriteLine($"First index: [{x}]; Value: {numbers[x]}");
                 Console.WriteLine($"Second index: [{y}]; Value: {numbers[y]}");
-                Console.WriteLine($"Second index: [{z}]; Value: {numbers[z]}");
+                Console.WriteLine($"Third index: [{z}]; Value: {numbers[z]}");
                 Console.WriteLine($"Added together: {numbers[x]} + {numbers[y]} + {numbers[z]} = {numbers[x] + numbers[y] + numbers[z]}");
                 Console.WriteLine($"Multiplied together: {numbers[x]} * {numbers[y]} * {numbers[z]} = {numbers[x] * numbers[y] * numbers[z]}");
             }
