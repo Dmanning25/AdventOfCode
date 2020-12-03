@@ -15,11 +15,11 @@ namespace AdventOfCode2020
 
         public static void Main(string[] args)
         {
-            Console.Write("Enter a day to display solutions for (or Enter to quit): ");
             string input;
 
             do
             {
+                Console.Write("Enter a day to display solutions for (or Enter to quit): ");
                 input = Console.ReadLine();
 
                 switch (input)
