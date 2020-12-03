@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manni\\source\\AdventOfCode\\2020\\day1\\Day1.csproj": {}
+    "C:\\Users\\manni\\source\\AdventOfCode\\adventofcode2020\\adventofcode2020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manni\\source\\AdventOfCode\\2020\\day1\\Day1.csproj": {
+    "C:\\Users\\manni\\source\\AdventOfCode\\adventofcode2020\\adventofcode2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manni\\source\\AdventOfCode\\2020\\day1\\Day1.csproj",
-        "projectName": "Day1",
-        "projectPath": "C:\\Users\\manni\\source\\AdventOfCode\\2020\\day1\\Day1.csproj",
+        "projectUniqueName": "C:\\Users\\manni\\source\\AdventOfCode\\adventofcode2020\\adventofcode2020.csproj",
+        "projectName": "adventofcode2020",
+        "projectPath": "C:\\Users\\manni\\source\\AdventOfCode\\adventofcode2020\\adventofcode2020.csproj",
         "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manni\\source\\AdventOfCode\\2020\\day1\\obj\\",
+        "outputPath": "C:\\Users\\manni\\source\\AdventOfCode\\adventofcode2020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config"

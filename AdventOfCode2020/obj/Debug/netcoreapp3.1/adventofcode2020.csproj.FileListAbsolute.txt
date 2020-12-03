@@ -1,0 +1,13 @@
+C:\Users\manni\source\AdventOfCode\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csprojAssemblyReference.cache
+C:\Users\manni\source\AdventOfCode\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.AssemblyInfoInputs.cache
+C:\Users\manni\source\AdventOfCode\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.AssemblyInfo.cs
+C:\Users\manni\source\AdventOfCode\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\AdventOfCode\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.exe
+C:\Users\manni\source\AdventOfCode\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.deps.json
+C:\Users\manni\source\AdventOfCode\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.runtimeconfig.json
+C:\Users\manni\source\AdventOfCode\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.runtimeconfig.dev.json
+C:\Users\manni\source\AdventOfCode\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.dll
+C:\Users\manni\source\AdventOfCode\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.pdb
+C:\Users\manni\source\AdventOfCode\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.dll
+C:\Users\manni\source\AdventOfCode\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.pdb
+C:\Users\manni\source\AdventOfCode\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.genruntimeconfig.cache
