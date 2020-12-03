@@ -16,6 +16,7 @@ namespace AdventOfCode2020
         public static void Main(string[] args)
         {
             string input;
+            IEnumerable<string> rawData;
 
             do
             {
@@ -25,12 +26,19 @@ namespace AdventOfCode2020
                 switch (input)
                 {
                     case "1":
-                        var rawData = GetData("Day1.txt");
+                        rawData = GetData("Day1.txt");
                         int[] numbers = rawData.Select(x => int.Parse(x)).ToArray();
                         Console.WriteLine("Begin Part 1...");
                         Day1.ExecutePart1(numbers);
                         Console.WriteLine("Begin Part 2...");
                         Day1.ExecutePart2(numbers);
+                        break;
+                    case "2":
+                        rawData = GetData("Day2.txt");
+                        Console.WriteLine("Begin Part 1...");
+                        Day2.ExecutePart1(rawData);
+                        Console.WriteLine("Begin Part 2...");
+                        Day2.ExecutePart2(rawData);
                         break;
                     case "":
                         Console.WriteLine("Goodbye.");
