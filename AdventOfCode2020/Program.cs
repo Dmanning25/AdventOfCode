@@ -40,6 +40,13 @@ namespace AdventOfCode2020
                         Console.WriteLine("Begin Part 2...");
                         Day2.ExecutePart2(rawData);
                         break;
+                    case "3":
+                        rawData = GetData("Day3.txt");
+                        Console.WriteLine("Begin Part 1...");
+                        Day3.ExecutePart1(rawData);
+                        Console.WriteLine("Begin Part 2...");
+                        Day3.ExecutePart2(rawData);
+                        break;
                     case "":
                         Console.WriteLine("Goodbye.");
                         break;
